@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="799928c0-cb94-498e-96bd-81a278b3a8f2" name="tiao-sg">
+        <fileTransfer accessType="SFTP" host="13.214.71.127" port="22" sshConfigId="f20257db-7107-440d-a3ee-fbb79a33aa71" sshConfig="ec2-user@13.214.71.127:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="10000" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

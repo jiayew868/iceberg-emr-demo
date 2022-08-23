@@ -1,0 +1,4 @@
+com/demo/flinkiceberg/warshouse/bean/UserBehavior.class
+com/demo/flinkiceberg/config/ConfigInfo.class
+com/demo/flinkiceberg/Kafka2Iceberg.class
+com/demo/flinkiceberg/warshouse/bean/ClickEvent.class

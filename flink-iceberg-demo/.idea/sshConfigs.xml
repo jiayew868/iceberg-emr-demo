@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:10}" host="13.214.71.127" id="f20257db-7107-440d-a3ee-fbb79a33aa71" keyPath="$USER_HOME$/kspace/aws/pem-key/kevin-poc-sgs-1.pem" port="22" nameFormat="DESCRIPTIVE" username="ec2-user" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
