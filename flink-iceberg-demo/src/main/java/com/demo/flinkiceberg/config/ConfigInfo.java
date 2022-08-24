@@ -10,8 +10,8 @@ public abstract class ConfigInfo {
 
     public static final String MYSQL_URL = "jdbc:mysql://user-database.crcwrov0yr1e.ap-southeast-1.rds.amazonaws.com/user_db";
 
-    public static final String MYSQL_USER = "";
+    public static final String MYSQL_USER = "admin";
 
-    public static final String MYSQL_PSW = "";
+    public static final String MYSQL_PSW = "12345678";
 
 }
